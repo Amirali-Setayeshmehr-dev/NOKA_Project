@@ -3,6 +3,8 @@
 Noka is a clean and elegant landing page 
 ## 🔗 Live Demo
 
+https://amirali-setayeshmehr-dev.github.io/NOKA_Project/
+
 ## ✨ Highlights 
 
 🚀Modern & Structured Design
