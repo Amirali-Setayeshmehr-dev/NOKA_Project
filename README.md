@@ -58,8 +58,6 @@ Feel free to reach out or follow me on social media:
 
 ● Mail: setayeshmehr@gmail.com
 
-💡 Template inspired by: (https://flavoriz.framer.website/)
-
 ⭐Support
 
 ## 📷 Preview | Screenshots
